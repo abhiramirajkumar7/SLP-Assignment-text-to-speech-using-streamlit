@@ -14,12 +14,7 @@ This Flask web application converts text input into speech output using the Goog
     git clone https://github.com/abhiramirajkumar7/SLP-Assignment-text-to-speech-using-streamlit.git
     ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd your-repository
-    ```
-
-3. Install the required dependencies using pip:
+2. Install the required dependencies using pip:
     ```bash
     pip install -r requirements.txt
     ```
